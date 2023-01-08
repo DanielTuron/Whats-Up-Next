@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-image: url("space.gif");
+  background-size:100% 100%;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-12.5%, -50%);
+}
+
+.media {
+  background-image: url("macarena-dance-stick-man.gif");
+  background-size:100% 100%;
+}
+
+.HomePage {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "Title Title Title Title"
+    "Title Title Title Title"
+    "Host-Party Host-Party Join-Party Join-Party";
+}
+
+.Title { grid-area: Title; }
+
+.Host-Party { grid-area: Host-Party; }
+
+.Join-Party { grid-area: Join-Party; }
