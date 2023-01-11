@@ -15,9 +15,6 @@ The backend and api of this project was created using python/django. Inside our 
 
 We are also handling Spotify security and authorization in our backend, as well as calls to the Spotify API. All recurring calls to the spotify API are done through the host, and then shared to the other users in order to minimize Spotify API calls, which are limited.
 
-### Breeding Function
-The breeding function used throughout this project is one of uniform crossover. One where each gene may be taken from either parent. Although it is not even chance, but instead weighted by fitness dominance. The offspring is then mutated according to the mutation function.
-
 ### Frontend
 The backend of this project was done using javascript/react. This project also makes frequent use of material UI for UI buttons and panels. https://mui.com/
 
