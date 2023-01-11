@@ -25,13 +25,13 @@ The backend of this project was done using javascript/react. This project also m
 There are currently 4 pages to the Whats-Up-Next web app. In the future I would like to add another page where users can see the upcoming queued songs.
 
 ### Home Page
-<img src="HomePage.png" alt="drawing" width="200"/>
+<img src="HomePage.png" alt="drawing" width="500"/>
 
 ### Party Page
-<img src="party.png" alt="drawing" width="200"/>
+<img src="party.png" alt="drawing" width="500"/>
 
 ### Create Page
-<img src="create.png" alt="drawing" width="200"/>
+<img src="Create.png" alt="drawing" width="500"/>
 
 ### Join Page
-<img src="create.png" alt="drawing" width="200"/>
+<img src="Join.png" alt="drawing" width="500"/>
