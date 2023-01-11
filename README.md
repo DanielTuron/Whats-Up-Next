@@ -19,10 +19,11 @@ We are also handling Spotify security and authorization in our backend, as well 
 The breeding function used throughout this project is one of uniform crossover. One where each gene may be taken from either parent. Although it is not even chance, but instead weighted by fitness dominance. The offspring is then mutated according to the mutation function.
 
 ### Frontend
-The backend of this project was done using javascript/react. This project also makes frequent use of material UI for cosmetics. https://mui.com/
+The backend of this project was done using javascript/react. This project also makes frequent use of material UI for UI buttons and panels. https://mui.com/
 
 ## Pages
 There are currently 4 pages to the Whats-Up-Next web app. In the future I would like to add another page where users can see the upcoming queued songs.
+<img src="Results/Nemo/400 Generations.jpg" alt="drawing" width="200"/>
 
 ## Run Waiting For GAdot yourself!
 
