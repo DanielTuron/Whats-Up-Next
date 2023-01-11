@@ -23,8 +23,15 @@ The backend of this project was done using javascript/react. This project also m
 
 ## Pages
 There are currently 4 pages to the Whats-Up-Next web app. In the future I would like to add another page where users can see the upcoming queued songs.
-<img src="Results/Nemo/400 Generations.jpg" alt="drawing" width="200"/>
 
-## Run Waiting For GAdot yourself!
+### Home Page
+<img src="HomePage.png" alt="drawing" width="200"/>
 
-This can be done very easily! Find an image you would like to recreate (Nemo was of size 420x370 pixels) and add that into a project folder. See the Nemo project folder for an example. Then, go to the startProject.py file and simply follow the instructions! Your population will periodically get saved in a pickle inside your project folder. To resume a run at a later time, go to loadPop.py and point towards this pickle file.
+### Party Page
+<img src="party.png" alt="drawing" width="200"/>
+
+### Create Page
+<img src="create.png" alt="drawing" width="200"/>
+
+### Join Page
+<img src="create.png" alt="drawing" width="200"/>
