@@ -32,3 +32,16 @@ There are currently 4 pages to the Whats-Up-Next web app. In the future I would 
 
 ### Join Page
 <img src="Join.png" alt="drawing" width="500"/>
+
+## How to Run Whats-Up-Next
+In order to run this on your local PC you will have to install the project, as well as all dependencies listed in Insights -> Dependencies
+Once you have set up the nessecary environment, go to the main project folder and run the command...
+
+  python manage.py runserver
+  
+This will run the server on your local PC. If you would like to run over a network, you will need to adjust,
+ALLOWED_HOSTS in WhatsUpNext/settings.py
+and REDIRECT_URI in spotify/credentials.py
+accordingly.
+
+
